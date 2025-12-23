@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Magic Particle Christmas Tree",
+  "description": "An interactive 3D particle Christmas tree experience with photo uploads, physics-based transitions, and cinematic post-processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
